@@ -15,8 +15,8 @@ The Age Calculator App is a simple web application that allows users to calculat
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aadith-tech/age-calculator.git
-   cd age-calculator
+   https://github.com/Aadith-tech/Age_Calculator.git
+   cd Age_Calculator
    npm install
    npm run dev
 
